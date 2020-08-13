@@ -1,0 +1,32 @@
+{
+  "name": "learn-some-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akatech/stuff-react-babel.git"
+  },
+  "author": "akatech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akatech/stuff-react-babel/issues"
+  },
+  "homepage": "https://github.com/akatech/stuff-react-babel#readme",
+  "dependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "jsx-control-statements": "^3.2.8",
+    "react-only-if": "^1.0.0",
+    "render-if": "^0.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-plugin-react": "^7.20.6"
+  }
+}
